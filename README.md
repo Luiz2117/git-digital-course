@@ -9,3 +9,4 @@
 # git log
 
 - git restore
+  \*comando git push
