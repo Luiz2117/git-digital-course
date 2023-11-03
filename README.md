@@ -9,4 +9,5 @@
 # git log
 
 - git restore
-  \*comando git push
+  *git pull
+  
