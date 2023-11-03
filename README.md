@@ -7,3 +7,5 @@
 #### Salvando modificações/git
 
 # git log
+
+- git restore
